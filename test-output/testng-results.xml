@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49792" started-at="2022-05-03T11:58:21Z" finished-at="2022-05-03T11:59:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49792" started-at="2022-05-03T11:58:21Z" finished-at="2022-05-03T11:59:11Z">
+      <class name="Module5_Profile_Test.VerifyProfileName">
+        <test-method status="PASS" signature="verifyPN()[pri:0, instance:Module5_Profile_Test.VerifyProfileName@20322d26]" name="verifyPN" duration-ms="25355" started-at="2022-05-03T17:28:46Z" finished-at="2022-05-03T17:29:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPN -->
+      </class> <!-- Module5_Profile_Test.VerifyProfileName -->
+      <class name="Module1_Login.TC_Login">
+        <test-method status="PASS" signature="login()[pri:0, instance:Module1_Login.TC_Login@2d928643]" name="login" duration-ms="24364" started-at="2022-05-03T17:28:21Z" finished-at="2022-05-03T17:28:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- Module1_Login.TC_Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
